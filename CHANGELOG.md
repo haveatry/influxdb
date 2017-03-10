@@ -20,6 +20,7 @@
 - [#7995](https://github.com/influxdata/influxdb/issues/7995): Update liner dependency to handle docker exec.
 - [#7811](https://github.com/influxdata/influxdb/issues/7811): Kill query not killing query
 - [#7457](https://github.com/influxdata/influxdb/issues/7457): KILL QUERY should work during all phases of a query
+- [#8118](https://github.com/influxdata/influxdb/issues/8118): Significantly improve DROP DATABASE speed.
 
 ## v1.2.2 [2017-03-14]
 
